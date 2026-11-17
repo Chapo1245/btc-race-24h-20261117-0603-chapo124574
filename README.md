@@ -1,5 +1,9 @@
 # btc-race-24h-20261117-0603 — Deep-Dip Bounce Bot
 
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/Chapo1245/btc-race-24h-20261117-0603-chapo124574/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/Chapo1245/btc-race-24h-20261117-0603-chapo124574/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 [![owner](https://img.shields.io/badge/owner-Chapo1245-blue)](https://github.com/Chapo1245)
 [![bounty](https://img.shields.io/badge/make.fun-btc--race--24h--20261117--0603-green)](https://make.fun/c/btc-race-24h-20261117-0603)
 
